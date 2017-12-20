@@ -1,4 +1,8 @@
 learning push and clone
+<<<<<<< HEAD
 yum install apache2
 yum install docker -y
 
+=======
+changes run by dev2
+>>>>>>> ea0b5e84dd7f2895e3374b86d0311835e4d6208a
